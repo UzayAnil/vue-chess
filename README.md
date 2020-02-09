@@ -1,6 +1,6 @@
 VueChess
 ========
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/vue-chess)](https://repl.it/github/UzayAnil/vue-chess)
  - Users can create private or public games against other  real-time
    player or against the computer by choosing color, time and type of
    starting, if public other users can view.
